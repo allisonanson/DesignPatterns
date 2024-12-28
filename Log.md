@@ -1,10 +1,10 @@
 # Activity Log 
 
 #### Friday, December 27, 2024
-##### What to do next: 
-- 
+What to do next: 
 
-##### What to do: 
-- Set up GitHub
-- Set up Log 
-- Read
+What was done: 
+- Set up GitHub repository
+- Set up Log file
+- Read book 
+---
